@@ -1,0 +1,4 @@
+print("Day One - String manipulation")
+print("String concatention is done using the "+"sign.")
+print('e.g. print("Hello " + "World")')
+print("New lines can be created using the backlash and n.")
