@@ -4,6 +4,6 @@ print("Day One - String manipulation")
 
 #Concatenating a string using the + sign.
 
-print("String concatention is done using the "+"sign.")
+print("String concatetion is done using the "+"sign.")
 print('e.g. print("Hello " + "World")')
 print("New lines can be created using the backlash and n.")
